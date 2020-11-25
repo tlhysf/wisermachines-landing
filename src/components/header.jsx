@@ -1,5 +1,7 @@
 import React, { Component } from "react";
 
+import Pdf from "../data/documents/brochure.pdf";
+
 export class Header extends Component {
   render() {
     return (
@@ -17,7 +19,8 @@ export class Header extends Component {
                     {this.props.data ? this.props.data.paragraph : "Loading"}
                   </p>
                   <a
-                    href="#features"
+                    href={Pdf}
+                    target="_blank"
                     className="btn btn-custom btn-lg page-scroll"
                   >
                     Learn More

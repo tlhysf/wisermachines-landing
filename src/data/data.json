@@ -1,53 +1,55 @@
 {
   "Header": {
-    "paragraph": "Increase production and maximize profits.",
-    "title": "An End-to-End IoT Solution"
+    "title": "Increase production maximize profits",
+    "paragraph": "An End-to-End IoT Solution."
   },
   "About": {
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "paragraph": "WiserMachines aims to accelerate your factory's digital transformation with its intuitive and flexible IoT platform. The solution helps to easily collect data from any piece of manufacturing equipment and converts it into powerful, actionable insights that minimizes machine downtime, maximizes your production, and promotes profitability.",
     "Why": [
-      "Lorem ipsum dolor",
-      "Tempor incididunt",
-      "Lorem ipsum dolor",
-      "Incididunt ut labore"
+      "Enhanced Visibility of Shop Floors",
+      "Alerts based Machines Utilization Monitoring",
+      "Real-time Monitoring of Temperature and Humidity to maintain the cold chain"
     ],
     "Why2": [
-      "Aliquip ex ea commodo",
-      "Lorem ipsum dolor",
-      "Exercitation ullamco",
-      "Lorem ipsum dolor"
+      "Business Analytics i.e. Shift-wise Productivity, Production Status, etc.",
+      "Operator Friendly Interface"
     ]
   },
   "Services": [
     {
-      "icon": "fa fa-wordpress",
+      "icon": "fa fa-binoculars",
       "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "text": "Keep remote check of production and maintenance schedules in real time"
     },
     {
-      "icon": "fa fa-cart-arrow-down",
+      "icon": "fa fa-briefcase",
       "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "text": "Predict new business opportunities through strong business Intelligence"
     },
     {
-      "icon": "fa fa-cloud-download",
+      "icon": "fa fa-clipboard",
       "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "text": "Production planning and control"
     },
     {
-      "icon": "fa fa-language",
+      "icon": "",
+      "name": "",
+      "text": ""
+    },
+    {
+      "icon": "fa fa-barcode",
       "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "text": "Inventory management"
     },
     {
-      "icon": "fa fa-plane",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-pie-chart",
+      "icon": "fa fa-truck",
       "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "text": "Logistics and supply chain management"
+    },
+    {
+      "icon": "fa fa-money",
+      "name": "Consectetur adipiscing",
+      "text": "Reduced operation costs"
     }
   ],
   "Testimonials": [
@@ -105,17 +107,17 @@
     }
   ],
   "Contact": {
-    "address": "4321 California St, San Francisco, CA 12345 ",
-    "phone": "+1 123 456 1234",
-    "email": "info@company.com",
+    "address": "424 Service Rd E, I-9/3, Islamabad",
+    "phone": "+92-51-8432273",
+    "email": "info@carepvtltd.com",
     "facebook": "fb.com",
     "twitter": "twitter.com",
-    "youtube": "youtube.com"
+    "linkedin": "pk.linkedin.com"
   },
   "Features": [
     {
       "icon": "fa fa-desktop",
-      "title": "Real-Time Monitoring",
+      "title": "Monitor in Real-Time",
       "text": "Track machine up-time for keeping up with the production schedules. Keep remote check of production and maintenance schedules in real time."
     },
     {
@@ -124,12 +126,12 @@
       "text": "Seemlessly integrate IoT nodes to your factory shopfloor."
     },
     {
-      "icon": "fa fa-magic",
+      "icon": "fa fa-bar-chart",
       "title": "Leverage Data",
       "text": "Meet and exceed production goals with real-time visibility of machine and job information."
     },
     {
-      "icon": "fa fa-magic",
+      "icon": "fa fa-pie-chart",
       "title": "Analytics and OEE",
       "text": "Analyze and optimize actual cycle times for performance, machine availability, and quality metrics."
     }

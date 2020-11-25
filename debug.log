@@ -1,0 +1,16 @@
+[1125/131336.254:ERROR:crash_report_database_win.cc(498)] failed to stat report
+[1125/131336.281:ERROR:crash_report_database_win.cc(498)] failed to stat report
+[1125/131336.281:ERROR:crash_report_database_win.cc(498)] failed to stat report
+[1125/131336.281:ERROR:crash_report_database_win.cc(498)] failed to stat report
+[1125/131336.281:ERROR:crash_report_database_win.cc(498)] failed to stat report
+[1125/132336.255:ERROR:crash_report_database_win.cc(498)] failed to stat report
+[1125/132336.255:ERROR:crash_report_database_win.cc(498)] failed to stat report
+[1125/132336.255:ERROR:crash_report_database_win.cc(498)] failed to stat report
+[1125/132336.255:ERROR:crash_report_database_win.cc(498)] failed to stat report
+[1125/132336.255:ERROR:crash_report_database_win.cc(498)] failed to stat report
+[1125/132336.255:ERROR:filesystem_win.cc(116)] GetFileAttributes C:\Users\talha\AppData\Local\Google\Chrome\User Data\Crashpad\reports\5933b53a-e5cd-47a8-87df-592a5ad650ae.dmp: The system cannot find the file specified. (0x2)
+[1125/132336.255:ERROR:filesystem_win.cc(116)] GetFileAttributes C:\Users\talha\AppData\Local\Google\Chrome\User Data\Crashpad\reports\74b3ead8-505e-4f14-93b1-5c2ef8209c6e.dmp: The system cannot find the file specified. (0x2)
+[1125/132336.255:ERROR:filesystem_win.cc(116)] GetFileAttributes C:\Users\talha\AppData\Local\Google\Chrome\User Data\Crashpad\reports\3cb57610-59ad-4e28-9be3-983a9fe6b356.dmp: The system cannot find the file specified. (0x2)
+[1125/132336.255:ERROR:filesystem_win.cc(116)] GetFileAttributes C:\Users\talha\AppData\Local\Google\Chrome\User Data\Crashpad\reports\c143c334-f269-4e1d-84ff-b4adb7844afa.dmp: The system cannot find the file specified. (0x2)
+[1125/132336.255:ERROR:filesystem_win.cc(116)] GetFileAttributes C:\Users\talha\AppData\Local\Google\Chrome\User Data\Crashpad\reports\cbc23df5-4ff6-4383-9a73-0f55cbcff61e.dmp: The system cannot find the file specified. (0x2)
+[1125/132336.255:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)

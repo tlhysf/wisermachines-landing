@@ -104,8 +104,10 @@ export class Contact extends Component {
                       </a>
                     </li>
                     <li>
-                      <a href={this.props.data ? this.props.data.youtube : "/"}>
-                        <i className="fa fa-youtube"></i>
+                      <a
+                        href={this.props.data ? this.props.data.linkedin : "/"}
+                      >
+                        <i className="fa fa-linkedin"></i>
                       </a>
                     </li>
                   </ul>
@@ -117,9 +119,12 @@ export class Contact extends Component {
         <div id="footer">
           <div className="container text-center">
             <p>
-              &copy; 2020 Issaaf Kattan React Land Page Template. Design by{" "}
-              <a href="http://www.templatewire.com" rel="nofollow">
-                TemplateWire
+              &copy; {`${new Date().getFullYear()}`}
+              {"\xa0\xa0\xa0\xa0\xa0\xa0\xa0"}
+              WiserMachines
+              {"\xa0\xa0\xa0\xa0\xa0\xa0\xa0"}|{"\xa0\xa0\xa0\xa0\xa0\xa0\xa0"}
+              <a href="https://carepvtltd.com/" rel="nofollow">
+                CARE Pvt. Ltd.
               </a>
             </p>
           </div>
